@@ -1,0 +1,7 @@
+clc
+close all 
+clear all
+x =load('x.mat')
+y =load('y.mat')
+z =load('z.mat')
+plot(x.x)
